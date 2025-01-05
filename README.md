@@ -10,7 +10,7 @@ As part of my web development training, I developed a **Paper-Rock-Scissors** ga
 - **HTML5**
 - **JavaScript (ES6+)**
 
-### 📷  Screenshots
-<a href="https://github.com/inna-shchokina/Paper-rock-scissors/blob/master/Screen_Paper-rock-scissors/Screen_Paper-rock-scissors.jpg?raw=true" target="_blank">View Game Interface Screenshot</a>
+### 📷 Screenshots
+[View Game Interface Screenshot](https://github.com/inna-shchokina/Paper-rock-scissors/blob/master/Screen_Paper-rock-scissors/Screen_Paper-rock-scissors.jpg?raw=true)
 
 
