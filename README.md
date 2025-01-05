@@ -12,6 +12,6 @@ As part of my web development training, I developed a **Paper-Rock-Scissors** ga
 
 ## Screenshots
 
-![Game Interface](https://drive.google.com/file/d/1Hrakaei6yECgTWldhkx0G7RZpu20wKd2/view?usp=sharing)
+![Game Interface](https://github.com/inna-shchokina/Paper-rock-scissors/blob/master/Screen_Paper-rock-scissors/Screen_Paper-rock-scissors.jpg?raw=true)
 
 
