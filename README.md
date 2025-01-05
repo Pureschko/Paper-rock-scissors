@@ -12,6 +12,6 @@ As part of my web development training, I developed a **Paper-Rock-Scissors** ga
 
 ### 📷 Screenshots
 
-<a href="https://github.com/inna-shchokina/Paper-rock-scissors/blob/master/Screen_Paper-rock-scissors/Screen_Paper-rock-scissors_big.jpg?raw=true" target="_blank rel="noopener noreferrer">View Game Interface Screenshot</a>
+<a href="https://github.com/inna-shchokina/Paper-rock-scissors/blob/master/Screen_Paper-rock-scissors/Screen_Paper-rock-scissors_big.jpg?raw=true" target="_blank" rel="noopener noreferrer">View Game Interface Screenshot</a>
 
 
